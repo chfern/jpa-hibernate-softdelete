@@ -21,7 +21,6 @@
             <url>https://github.com/fernandochristyanto</url>
         </developer>
     </developers>
-
     <build>
         <plugins>
             <plugin>
