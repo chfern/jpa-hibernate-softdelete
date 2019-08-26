@@ -4,8 +4,23 @@
 
     <groupId>com.christyantofernando</groupId>
     <artifactId>jpa-hibernate-softdelete</artifactId>
-    <version>1.0</version>
-
+    <version>1.1-SNAPSHOT</version>
+    <name>JPA Hibernate SoftDelete</name>
+    <description>SoftDelete annotation processing for JPA model</description>
+    <url>https://github.com/fernandochristyanto/jpa-softdelete-repository</url>
+    <licenses>
+        <license>
+            <name>GNU General Public License (GPL)</name>
+            <url>http://www.gnu.org/licenses/gpl.txt</url>
+        </license>
+    </licenses>
+    <developers>
+        <developer>
+            <name>Fernando Christyanto</name>
+            <email>christyantofernando@gmail.com</email>
+            <url>https://github.com/fernandochristyanto</url>
+        </developer>
+    </developers>
 
     <build>
         <plugins>
@@ -160,7 +175,7 @@
         <connection>scm:git:git://github.com/fernandochristyanto/jpa-hibernate-softdelete.git</connection>
         <developerConnection>scm:git:git@github.com:fernandochristyanto/jpa-hibernate-softdelete.git</developerConnection>
         <url>https://github.com/fernandochristyanto/jpa-hibernate-softdelete.git</url>
-        <tag>jpa-hibernate-softdelete-1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <profiles>
