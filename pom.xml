@@ -8,7 +8,7 @@
     <name>JPA Hibernate SoftDelete</name>
     <description>SoftDelete annotation processing for JPA model</description>
     <url>https://github.com/fernandochristyanto/jpa-softdelete-repository</url>
-    
+
     <licenses>
         <license>
             <name>GNU General Public License (GPL)</name>
