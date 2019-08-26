@@ -47,3 +47,13 @@ This new repository can be combined with your DI provider, e.g: AutoWire
 ```
 todoSoftDeleteRepository.softDelete(1); // Soft deleting todo where id = 1
 ```
+
+## Using this plugin
+This plugin is available in maven
+```
+<dependency>
+  <groupId>com.christyantofernando</groupId>
+  <artifactId>jpa-hibernate-softdelete</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
+</dependency>
+```
