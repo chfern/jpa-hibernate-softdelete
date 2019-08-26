@@ -1,6 +1,8 @@
 # Compiled class file
 *.class
-
+.classpath
+.project
+.settings/
 target/
 
 # User-specific stuff
