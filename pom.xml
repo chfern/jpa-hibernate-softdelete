@@ -4,7 +4,7 @@
 
     <groupId>com.christyantofernando</groupId>
     <artifactId>jpa-hibernate-softdelete</artifactId>
-    <version>0.0.1</version>
+    <version>1.0.0</version>
     <name>JPA Hibernate SoftDelete</name>
     <description>SoftDelete annotation processing for JPA model</description>
     <url>https://github.com/fernandochristyanto/jpa-softdelete-repository</url>
